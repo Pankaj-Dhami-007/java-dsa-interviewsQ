@@ -1,7 +1,5 @@
 package string;
 
-import java.util.regex.Pattern;
-
 public class ReverseWords {
 
     /*

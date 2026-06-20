@@ -1,4 +1,4 @@
-package recursion;
+package recursion.basic;
 
 /*
      print 1 to n => 1, 2, 3, 4, .....n

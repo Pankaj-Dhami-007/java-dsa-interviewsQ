@@ -1,4 +1,4 @@
-package recursion;
+package recursion.basic;
 /*
 find factorial ->
 ex-> 5! = 5*4*3*2*1=120

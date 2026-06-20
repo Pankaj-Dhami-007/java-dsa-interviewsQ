@@ -4,8 +4,16 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+
+// Find unique triplets whose sum = 0
+// nums = [-1,0,1,2,-1,-4]
+// [[-1,-1,2],[-1,0,1]]
 public class ThreeSumProblem {
 
+
+    // with sorting
+    // fix one element
+    // find remaining two no using two pointer
     public static List<List<Integer>> threeSum(int[] nums) {
 
         List<List<Integer>> result = new ArrayList<>();

@@ -34,7 +34,7 @@ public class TwoSum_3 {
             } else if (sum < target) {
                 l++;
             }else{
-                r++;
+                r--;
             }
         }
         return result; //tc - nlog(n)
